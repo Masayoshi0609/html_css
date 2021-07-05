@@ -23,12 +23,8 @@ main {
   background-color: #eeeeee;
 }
 
-.main-box:nth-last-child {
+.main-box:last-child {
   margin-right: 0;
-}
-
-.main-visual {
-  padding: 10px 10px 15px 10px;
 }
 
 .main-img1 {
@@ -64,10 +60,6 @@ main {
 footer {
   height: 50px;
   background-color: #aaaaaa;
-}
-
-.main-text {
-  margin-top: 5px;
 }
 
 .heading-text {
